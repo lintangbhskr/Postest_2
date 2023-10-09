@@ -42,7 +42,15 @@ Ini akan mengakhiri mode pembeli dan kembali ke menu awal, di mana pengguna dimi
 **Output Tambahan:**
 
 -Jika pengguna memasukkan peran yang tidak valid (bukan "admin" atau "pembeli"), program akan memberikan pesan bahwa peran tidak valid dan meminta peran kembali.
+
 -Jika pengguna memilih nomor menu yang tidak valid, program akan memberikan pesan bahwa pilihan tidak valid dan meminta pilihan kembali.
+
 -Setiap kali admin menambahkan, mengedit, atau menghapus produk, atau pembeli membeli barang, program akan memberikan konfirmasi bahwa tindakan tersebut telah   
  berhasil dilakukan.
+ 
 -Setelah setiap tindakan selesai, program akan kembali ke menu utama sesuai dengan peran yang dipilih (admin atau pembeli).
+
+
+**Flowchart** :
+![flowchart_TokoVideoGame drawio](https://github.com/lintangbhskr/Postest_2/assets/143193920/66fc9443-608d-4d47-8acd-d5f5c55ddf23)
+
