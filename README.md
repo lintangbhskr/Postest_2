@@ -52,5 +52,6 @@ Ini akan mengakhiri mode pembeli dan kembali ke menu awal, di mana pengguna dimi
 
 
 **Flowchart** :
+
 ![flowchart_TokoVideoGame drawio](https://github.com/lintangbhskr/Postest_2/assets/143193920/66fc9443-608d-4d47-8acd-d5f5c55ddf23)
 
