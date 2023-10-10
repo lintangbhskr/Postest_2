@@ -1,6 +1,7 @@
 Contoh Output : 
 
-![image](https://github.com/lintangbhskr/Postest_2/assets/143193920/aafd5717-d20f-4bdc-889f-da5bed5c306d)
+![image](https://github.com/lintangbhskr/Postest_2/assets/143193920/65769eae-341f-4b64-b429-eb3e775309fc)
+
 
 **Opsi Admin:**
 
